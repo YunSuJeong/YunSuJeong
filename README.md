@@ -37,6 +37,3 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Eclipse-2C2255?&style=flat-square&logo=Eclipse&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23181717.svg?&style=flat-square&logo=github&logoColor=white" />
 </div>
-
-<h3 style="display: inline-block; margin-right: 50px; vertical-align: top;">📚 I'm learning</h3>
-<h3 style="display: inline-block; vertical-align: top;">📁 Tools</h3>
